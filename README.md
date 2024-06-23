@@ -52,3 +52,4 @@ Use following config and adjust it according to your needs:
   ## Additional contributors:
 -Kacyna
 -Dominik-Kosecki-Merito
+-some changes for ex4
